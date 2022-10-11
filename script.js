@@ -31,10 +31,7 @@ btn.onclick = function submit(){
 
     // RECALL THE BUILT IN METHOD OF THE PROTOTYPE PERSON
     individual.toTableRow()
-
     
-
-
     document.getElementById('fname').value = ""
     document.getElementById('sname').value = ""
     document.getElementById('bdate').value = ""
